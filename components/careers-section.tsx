@@ -40,7 +40,7 @@ export function CareersSection({ data = careersData }: CareersSectionProps) {
                     {position.title}
                   </h3>
                   {position.subtitle && (
-                    <p className="text-xs text-muted-foreground mt-0.5">{position.subtitle}</p>
+                    <p className="text-xs font-semibold text-foreground mt-0.5">{position.subtitle}</p>
                   )}
                   <div className="flex items-center gap-1 mt-1">
                     <MapPin className="w-3 h-3 text-muted-foreground flex-shrink-0" />
