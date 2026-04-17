@@ -89,7 +89,7 @@ export const resumeData = {
   ],
   experience: [
     {
-      title: 'Негізуші — MirKAI',
+      title: 'MirKAI',
       period: '2024 — Қазіргі уақыт',
       description:
         'Клиенттерге веб-дизайн, Telegram-боттар, CRM жүйелері және бизнес-процестерді цифрландыру бойынша кешенді шешімдер ұсынады.',
