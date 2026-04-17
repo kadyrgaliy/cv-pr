@@ -1,5 +1,5 @@
 export const profileData = {
-  name: 'Мирамгуль Кадыргали',
+  name: 'Мирка Коуч',
   title: 'Негізуші және Бас директор',
   avatar: '/mirka.png',
   email: 'alex@nexusai.io',
