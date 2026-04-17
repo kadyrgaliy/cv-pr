@@ -27,18 +27,6 @@ export function ContactSection({ data = contactData }: ContactSectionProps) {
         <div className="w-10 h-1 bg-accent rounded-full mb-6" />
       </div>
 
-      <div className="w-full h-64 md:h-80 rounded-xl md:rounded-2xl overflow-hidden border border-border bg-secondary">
-        <iframe
-          src={data.mapEmbedUrl}
-          width="100%"
-          height="100%"
-          style={{ border: 0 }}
-          allowFullScreen
-          loading="lazy"
-          referrerPolicy="no-referrer-when-downgrade"
-          title="Кеңсе орналасуы"
-        />
-      </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-3 md:gap-4">
         <div className="flex items-center gap-3 md:gap-4 p-4 md:p-5 bg-secondary rounded-xl md:rounded-2xl border border-border hover:border-accent transition-colors group">
