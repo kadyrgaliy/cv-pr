@@ -10,8 +10,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'MirKAI Продакшн',
-  description: 'MirKAI Продакшн — бизнес процестерін автоматтандыру және коучинг агенттігі.',
+  title: 'MirKAI',
+  description: 'MirKAI — бизнес процестерін автоматтандыру және коучинг агенттігі.',
   generator: 'mirkai.com',
   icons: {
     icon: [
