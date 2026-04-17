@@ -1,6 +1,6 @@
 export const profileData = {
   name: 'Мирка Коуч',
-  title: 'Негізуші және Бас директор',
+  title: 'Бас директор',
   avatar: '/mirka.png',
   email: 'alex@nexusai.io',
   phone: '+1 (415) 882-4710',
