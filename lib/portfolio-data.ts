@@ -178,7 +178,7 @@ export const careersData = {
       icon: 'Megaphone',
     },
     {
-      title: 'Контент-менеджер',
+      title: 'Менеджер',
       subtitle: 'Редактор',
       type: 'Онлайн жұмыс',
       salary: '150 000 – 280 000 ₸ / ай',
