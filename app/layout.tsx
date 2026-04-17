@@ -10,9 +10,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'Nexus AI Solutions — AI Automation Agency',
-  description: 'Nexus AI Solutions builds intelligent automation systems, AI integrations, and data pipelines for enterprise clients. Founded by Alexander Mercer.',
-  generator: 'nexusai.io',
+  title: 'MirKAI Продакшн',
+  description: 'MirKAI Продакшн — бизнес процестерін автоматтандыру және коучинг агенттігі.',
+  generator: 'mirkai.com',
   icons: {
     icon: [
       {
